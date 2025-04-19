@@ -4,7 +4,7 @@ import logging
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # <-- Apna bot token daalo
+BOT_TOKEN = "8061750485:AAEGcy2tQcj1E-YMUcxDCkZMEnb6ynzkwCQ"  # <-- Apna bot token daalo
 connected_clients = set()
 
 logging.basicConfig(level=logging.INFO)
